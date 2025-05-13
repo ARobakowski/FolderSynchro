@@ -1,0 +1,12 @@
+{
+  "ExcludeFiles": [
+    "*.tmp",
+    "~$*",
+    "*.jpg"
+  ],
+  "ExcludeDirectories": [
+    ".git",
+    "bin",
+    "obj"
+  ]
+}
